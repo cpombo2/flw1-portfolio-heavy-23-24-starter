@@ -16,7 +16,7 @@
   }
   
   body {
-    background-color: #f9d60e;
+    background-color: olive;
     padding: 20px;
     font-family: Arial;
   }
@@ -29,7 +29,7 @@
   
   .main {
     max-width: 1000px;
-    margin: auto;
+    margin:2px px;
   }
   
   h1 {
